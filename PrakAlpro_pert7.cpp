@@ -1,12 +1,3 @@
-/*
-Nama		: Dita Annisa Diningtyas
-Kelas		: D
-Prodi		: Informatika - S1
-Matakuliah	: PRAKTIKUM ALGORITMA DAN PEMROGRAMAN II*/
-
-//file header 
-/*perintah untuk mengakses fitur tambahan dalam bahasa C++,
-seperti cin dan cout*/
 #include<iostream>
 
 /*berfungsi untuk memberitahu program untuk menggunakan fitur dalam namespace yang bernama std.
